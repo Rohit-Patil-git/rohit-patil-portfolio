@@ -1453,7 +1453,8 @@ footer .social-media {
 
     .hamburger {
         display: block;
-        right: 35%;
+
+        right: 30%;
     }
 
     .links {
